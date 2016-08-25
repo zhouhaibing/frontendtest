@@ -1,0 +1,25 @@
+{
+  "name": "codeforFun",
+  "description": "fun nici",
+  "main": "",
+  "authors": [
+    "zhouhaibing <zhouhaibing@kingsoft.com>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "node"
+  ],
+  "moduleType": [],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-toastr": "~2.1.1"
+  }
+}
